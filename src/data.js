@@ -63,7 +63,7 @@ export const popularProducts = [
     },
     {
         id: 6,
-        img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+        img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/106/BUS-PAT-BURTE-1221217/1170x1470_BS_2017_12_122A_front.png",
     },
     {
         id: 7,
